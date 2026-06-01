@@ -1,4 +1,4 @@
-# Awesome Desktop AI Assistants
+# Awesome Desktop AI Assistants [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of desktop AI assistants and AI-powered productivity tools for macOS, Windows, and Linux in 2026.
 
