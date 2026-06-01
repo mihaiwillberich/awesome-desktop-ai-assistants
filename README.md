@@ -393,6 +393,11 @@ To add a product:
 5. Update the relevant "Tools by ..." cross-reference sections if applicable.
 6. Verify the homepage loads and the product is actively maintained; bump the "Last verified" date in your PR description.
 
+## Related projects
+
+- [AI Tool Selector](https://github.com/mihaiwillberich/ai-tool-selector) — answer 6 questions, get a ranked desktop-AI recommendation (library + CLI + web demo).
+- [Jarvis Public Prompts](https://github.com/mihaiwillberich/jarvis-public-prompts) — 100+ battle-tested prompts for desktop AI assistants.
+
 ## License
 
 [CC0 1.0 Universal](LICENSE) — public domain dedication. Use this list freely.
