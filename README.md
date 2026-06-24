@@ -164,6 +164,7 @@ Note apps and personal knowledge tools with AI generation, summarization, retrie
 - **[Mem](https://get.mem.ai)** 🍎 🪟 🌐 — AI-native note-taking that auto-organizes and answers questions across your second brain.
 - **[Notion AI](https://www.notion.so/product/ai)** 🍎 🪟 🌐 — AI features inside the Notion workspace for writing, Q&A, and database actions.
 - **[Reflect](https://reflect.app)** 🍎 🪟 📱 — Daily-note app with built-in GPT-powered chat and backlinks.
+- **[Remio](https://remio.ai)** 🍎 🪟 — Indexes local files, webpages, meetings, emails, and notes into an AI-searchable personal knowledge base.
 - **[Roam Research](https://roamresearch.com)** 🌐 — Bidirectional-linking outliner with first-party AI add-ons and many community AI extensions.
 - **[Saner.AI](https://saner.ai)** 🍎 🪟 — Personal memory assistant that builds a knowledge graph from your notes, chats, and connected apps.
 - **[Tana](https://tana.inc)** 🍎 🌐 — Outliner with supertags and built-in AI commands for entity extraction and Q&A.
@@ -319,7 +320,7 @@ Cross-reference of common desktop workflows to representative tools. Many tools 
 
 **Customer support** — [Intercom Fin](https://www.intercom.com/fin), [Help Scout AI](https://www.helpscout.com), [Ada](https://www.ada.cx), [Plain](https://www.plain.com).
 
-**Research** — [Perplexity Desktop](https://www.perplexity.ai/desktop), [Elicit](https://elicit.com), [Consensus](https://consensus.app), [Scite](https://scite.ai), [Jarvis](https://getjarvis.eu) (with web connector).
+**Research** — [Perplexity Desktop](https://www.perplexity.ai/desktop), [Elicit](https://elicit.com), [Consensus](https://consensus.app), [Scite](https://scite.ai), [Jarvis](https://getjarvis.eu) (with web connector), [Remio](https://remio.ai).
 
 **Writing** — [Lex](https://lex.page), [Typefully](https://typefully.com), [Jasper](https://www.jasper.ai), [DeepL Write](https://www.deepl.com/write), [Quill](https://quillbot.com), [Dottie](https://dottie.ai).
 
@@ -331,13 +332,13 @@ Cross-reference of common desktop workflows to representative tools. Many tools 
 
 **Meetings** — [Granola](https://granola.ai), [Fireflies.ai](https://fireflies.ai), [Otter.ai](https://otter.ai), [Fathom](https://fathom.video).
 
-**Local / offline** — [Ollama](https://ollama.com), [LM Studio](https://lmstudio.ai), [Jan](https://jan.ai), [GPT4All](https://www.nomic.ai/gpt4all).
+**Local / offline** — [Ollama](https://ollama.com), [LM Studio](https://lmstudio.ai), [Jan](https://jan.ai), [GPT4All](https://www.nomic.ai/gpt4all), [Remio](https://remio.ai).
 
 ## Tools by license
 
 **Open source (MIT, Apache 2.0, AGPL, or similar)** — [Aider](https://aider.chat), [Anytype](https://anytype.io), [AnythingLLM](https://anythingllm.com), [Brave Leo](https://brave.com/leo/), [Chatbot UI](https://github.com/mckaywrigley/chatbot-ui), [Cline](https://cline.bot), [Continue.dev](https://continue.dev), [GPT4All](https://www.nomic.ai/gpt4all), [Hugging Chat](https://huggingface.co/chat), [Jan](https://jan.ai), [KoboldAI](https://github.com/KoboldAI/KoboldAI-Client), [LibreChat](https://www.librechat.ai), [LM Studio](https://lmstudio.ai) (free tier, closed-source UI), [LocalAI](https://localai.io), [Logseq](https://logseq.com), [n8n](https://n8n.io) (fair-code), [Ollama](https://ollama.com), [OpenHands](https://github.com/All-Hands-AI/OpenHands), [OpenWebUI](https://openwebui.com), [text-generation-webui](https://github.com/oobabooga/text-generation-webui), [Ueli](https://ueli.app), [Whisper.cpp](https://github.com/ggerganov/whisper.cpp), [Witsy](https://witsyai.com).
 
-**Commercial closed-source** — most products in this list, including [ChatGPT Desktop](https://openai.com/chatgpt/desktop/), [Claude Desktop](https://claude.ai/download), [Cursor](https://cursor.com), [Highlight AI](https://highlightai.com), [Jarvis](https://getjarvis.eu), [Raycast AI](https://raycast.com/ai), [Superhuman](https://superhuman.com/ai), [Wispr Flow](https://wisprflow.ai), [Windsurf](https://windsurf.com), and others.
+**Commercial closed-source** — most products in this list, including [ChatGPT Desktop](https://openai.com/chatgpt/desktop/), [Claude Desktop](https://claude.ai/download), [Cursor](https://cursor.com), [Highlight AI](https://highlightai.com), [Jarvis](https://getjarvis.eu), [Raycast AI](https://raycast.com/ai), [Remio](https://remio.ai), [Superhuman](https://superhuman.com/ai), [Wispr Flow](https://wisprflow.ai), [Windsurf](https://windsurf.com), and others.
 
 **Free with paid tier** — most commercial entries offer a free tier of some sort, including [ChatGPT Desktop](https://openai.com/chatgpt/desktop/), [Claude Desktop](https://claude.ai/download), [Granola](https://granola.ai), [Cursor](https://cursor.com), [Codeium](https://codeium.com), [Continue.dev](https://continue.dev), [Mistral Le Chat](https://chat.mistral.ai), [Perplexity Desktop](https://www.perplexity.ai/desktop), and [Raycast AI](https://raycast.com/ai).
 
