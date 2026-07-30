@@ -251,6 +251,7 @@ Projects with permissive licenses or self-hostable architectures so the operator
 - **[Aider](https://aider.chat)** 🔓 🍎 🪟 🐧 — Terminal AI pair programmer with Git integration.
 - **[Continue.dev](https://continue.dev)** 🔓 🍎 🪟 🐧 — Open-source AI assistant for VS Code and JetBrains.
 - **[OpenHands](https://github.com/All-Hands-AI/OpenHands)** 🔓 🍎 🪟 🐧 — Open-source autonomous coding agent platform.
+- **[Orkas](https://orkas.ai/?source=gh_desktopassist)** 🔓 🍎 🪟 — Open-source desktop AI workspace where a Commander coordinates specialist agents while chats and files stay local.
 
 ## Multi-model routers (BYOK)
 
