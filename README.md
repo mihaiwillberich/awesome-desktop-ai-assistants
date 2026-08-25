@@ -40,7 +40,7 @@ Always-available helpers that live in a floating window, menu bar, or toolbar ov
 
 **Open source / freely modifiable**
 
-- **[Witsy](https://witsyai.com)** 🔓 🍎 🪟 🐧 — Cross-platform desktop AI assistant with BYOK support for multiple model providers and a floating prompt anchor.
+- **[Codex Quota Overlay](https://github.com/cpys/codex-quota-overlay)** 🔓 🪟 — Windows overlay that shows Codex Desktop quota and reset time beside the conversation title.`n- **[Witsy](https://witsyai.com)** 🔓 🍎 🪟 🐧 — Cross-platform desktop AI assistant with BYOK support for multiple model providers and a floating prompt anchor.
 
 **Commercial**
 
