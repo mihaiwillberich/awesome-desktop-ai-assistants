@@ -70,6 +70,8 @@ Native desktop clients oriented around a conversational chat interface, typicall
 - **[Jan](https://jan.ai)** 🔓 🍎 🪟 🐧 — Open-source ChatGPT-style desktop app that runs local models out of the box and supports remote provider keys.
 - **[LM Studio](https://lmstudio.ai)** 🍎 🪟 🐧 — Native desktop app for downloading and chatting with local open-weight models, with an OpenAI-compatible local server.
 
+- [Vellum](https://vellum.ai) - Personal AI assistant with persistent memory, app integrations, and scheduled tasks. *macOS, web, iOS, Android.*
+
 **Commercial**
 
 - **[Aleph Alpha](https://aleph-alpha.com)** 🇪🇺 🌐 — German enterprise AI provider with desktop-installable Pharia chat UI for regulated industries.
