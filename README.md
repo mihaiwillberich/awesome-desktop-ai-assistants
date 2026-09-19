@@ -166,6 +166,7 @@ Note apps and personal knowledge tools with AI generation, summarization, retrie
 - **[Reflect](https://reflect.app)** 🍎 🪟 📱 — Daily-note app with built-in GPT-powered chat and backlinks.
 - **[Roam Research](https://roamresearch.com)** 🌐 — Bidirectional-linking outliner with first-party AI add-ons and many community AI extensions.
 - **[Saner.AI](https://saner.ai)** 🍎 🪟 — Personal memory assistant that builds a knowledge graph from your notes, chats, and connected apps.
+- [Screenpipe](https://screenpipe.com) - Captures screen/audio locally for searchable history and AI recall; cloud options can transmit context. *macOS, Windows, Linux (source build).*
 - **[Tana](https://tana.inc)** 🍎 🌐 — Outliner with supertags and built-in AI commands for entity extraction and Q&A.
 
 ## Meeting + transcription
@@ -329,7 +330,7 @@ Cross-reference of common desktop workflows to representative tools. Many tools 
 
 **Coding** — [Cursor](https://cursor.com), [Windsurf](https://windsurf.com), [Continue.dev](https://continue.dev), [GitHub Copilot](https://github.com/features/copilot), [Aider](https://aider.chat).
 
-**Meetings** — [Granola](https://granola.ai), [Fireflies.ai](https://fireflies.ai), [Otter.ai](https://otter.ai), [Fathom](https://fathom.video).
+**Meetings** — [Granola](https://granola.ai), [Fireflies.ai](https://fireflies.ai), [Otter.ai](https://otter.ai), [Fathom](https://fathom.video), [Screenpipe](https://screenpipe.com).
 
 **Local / offline** — [Ollama](https://ollama.com), [LM Studio](https://lmstudio.ai), [Jan](https://jan.ai), [GPT4All](https://www.nomic.ai/gpt4all).
 
@@ -349,9 +350,9 @@ Cross-reference by operating system. Where the same product is available on mult
 
 **Windows-only** — Very few — most "Windows-first" tools also ship on macOS. [Microsoft Copilot Vision](https://www.microsoft.com/copilot) is the most prominent Windows-tied AI assistant beyond OS-level Copilot integration.
 
-**Linux** — [Aider](https://aider.chat), [AnythingLLM](https://anythingllm.com), [Brave Leo](https://brave.com/leo/), [Continue.dev](https://continue.dev), [GPT4All](https://www.nomic.ai/gpt4all), [Jan](https://jan.ai), [Jarvis](https://getjarvis.eu) (AppImage), [LibreChat](https://www.librechat.ai) (self-host), [LM Studio](https://lmstudio.ai), [LocalAI](https://localai.io), [n8n](https://n8n.io), [Ollama](https://ollama.com), [OpenHands](https://github.com/All-Hands-AI/OpenHands), [OpenWebUI](https://openwebui.com), [Pieces for Developers](https://pieces.app), [text-generation-webui](https://github.com/oobabooga/text-generation-webui), [Ueli](https://ueli.app), [Witsy](https://witsyai.com).
+**Linux** — [Aider](https://aider.chat), [AnythingLLM](https://anythingllm.com), [Brave Leo](https://brave.com/leo/), [Continue.dev](https://continue.dev), [GPT4All](https://www.nomic.ai/gpt4all), [Jan](https://jan.ai), [Jarvis](https://getjarvis.eu) (AppImage), [LibreChat](https://www.librechat.ai) (self-host), [LM Studio](https://lmstudio.ai), [LocalAI](https://localai.io), [n8n](https://n8n.io), [Ollama](https://ollama.com), [OpenHands](https://github.com/All-Hands-AI/OpenHands), [OpenWebUI](https://openwebui.com), [Pieces for Developers](https://pieces.app), [Screenpipe](https://screenpipe.com) (Linux source build), [text-generation-webui](https://github.com/oobabooga/text-generation-webui), [Ueli](https://ueli.app), [Witsy](https://witsyai.com).
 
-**Cross-platform (macOS + Windows + Linux)** — [Aider](https://aider.chat), [AnythingLLM](https://anythingllm.com), [Brave Leo](https://brave.com/leo/), [Codeium](https://codeium.com), [Continue.dev](https://continue.dev), [Cursor](https://cursor.com), [GitHub Copilot](https://github.com/features/copilot), [GPT4All](https://www.nomic.ai/gpt4all), [Jan](https://jan.ai), [Jarvis](https://getjarvis.eu), [LM Studio](https://lmstudio.ai), [LocalAI](https://localai.io), [Ollama](https://ollama.com), [Pieces for Developers](https://pieces.app), [Tabnine](https://www.tabnine.com), [Windsurf](https://windsurf.com), [Witsy](https://witsyai.com).
+**Cross-platform (macOS + Windows + Linux)** — [Aider](https://aider.chat), [AnythingLLM](https://anythingllm.com), [Brave Leo](https://brave.com/leo/), [Codeium](https://codeium.com), [Continue.dev](https://continue.dev), [Cursor](https://cursor.com), [GitHub Copilot](https://github.com/features/copilot), [GPT4All](https://www.nomic.ai/gpt4all), [Jan](https://jan.ai), [Jarvis](https://getjarvis.eu), [LM Studio](https://lmstudio.ai), [LocalAI](https://localai.io), [Ollama](https://ollama.com), [Pieces for Developers](https://pieces.app), [Screenpipe](https://screenpipe.com) (Linux source build), [Tabnine](https://www.tabnine.com), [Windsurf](https://windsurf.com), [Witsy](https://witsyai.com).
 
 **Web-only (with installable PWA)** — [Aleph Alpha](https://aleph-alpha.com), [Bardeen](https://www.bardeen.ai), [Browse AI](https://www.browse.ai), [Fathom](https://fathom.video), [Fireflies.ai](https://fireflies.ai), [Gemini Desktop](https://gemini.google.com), [Hugging Chat](https://huggingface.co/chat), [LibreChat](https://www.librechat.ai), [Lindy AI](https://www.lindy.ai), [Make](https://www.make.com), [Mistral Le Chat](https://chat.mistral.ai), [OpenRouter](https://openrouter.ai), [Read.ai](https://read.ai), [Relay.app](https://www.relay.app), [Roam Research](https://roamresearch.com), [Tactiq](https://tactiq.io), [Zapier](https://zapier.com/ai).
 
