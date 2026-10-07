@@ -229,6 +229,7 @@ Projects with permissive licenses or self-hostable architectures so the operator
 
 **Self-hosted UIs**
 
+- [Aleph](https://aleph-site-jade.vercel.app) - Desktop workspace for combining AI models, tools, and files across focused workspaces and reusable agents. *macOS.*
 - **[AnythingLLM](https://anythingllm.com)** 🔓 🍎 🪟 🐧 — Self-hostable AI desktop and server app with document chat, agents, and multi-user workspaces.
 - **[BetterChatGPT](https://github.com/ztjhz/BetterChatGPT)** 🔓 🌐 — Open-source web UI for OpenAI-compatible APIs, deployable as a desktop PWA.
 - **[Chatbot UI](https://github.com/mckaywrigley/chatbot-ui)** 🔓 🌐 — Popular open-source chat UI template that can be self-hosted and packaged for desktop.
@@ -335,7 +336,7 @@ Cross-reference of common desktop workflows to representative tools. Many tools 
 
 ## Tools by license
 
-**Open source (MIT, Apache 2.0, AGPL, or similar)** — [Aider](https://aider.chat), [Anytype](https://anytype.io), [AnythingLLM](https://anythingllm.com), [Brave Leo](https://brave.com/leo/), [Chatbot UI](https://github.com/mckaywrigley/chatbot-ui), [Cline](https://cline.bot), [Continue.dev](https://continue.dev), [GPT4All](https://www.nomic.ai/gpt4all), [Hugging Chat](https://huggingface.co/chat), [Jan](https://jan.ai), [KoboldAI](https://github.com/KoboldAI/KoboldAI-Client), [LibreChat](https://www.librechat.ai), [LM Studio](https://lmstudio.ai) (free tier, closed-source UI), [LocalAI](https://localai.io), [Logseq](https://logseq.com), [n8n](https://n8n.io) (fair-code), [Ollama](https://ollama.com), [OpenHands](https://github.com/All-Hands-AI/OpenHands), [OpenWebUI](https://openwebui.com), [text-generation-webui](https://github.com/oobabooga/text-generation-webui), [Ueli](https://ueli.app), [Whisper.cpp](https://github.com/ggerganov/whisper.cpp), [Witsy](https://witsyai.com).
+**Open source (MIT, Apache 2.0, AGPL, or similar)** — [Aider](https://aider.chat), [Aleph](https://aleph-site-jade.vercel.app), [Anytype](https://anytype.io), [AnythingLLM](https://anythingllm.com), [Brave Leo](https://brave.com/leo/), [Chatbot UI](https://github.com/mckaywrigley/chatbot-ui), [Cline](https://cline.bot), [Continue.dev](https://continue.dev), [GPT4All](https://www.nomic.ai/gpt4all), [Hugging Chat](https://huggingface.co/chat), [Jan](https://jan.ai), [KoboldAI](https://github.com/KoboldAI/KoboldAI-Client), [LibreChat](https://www.librechat.ai), [LM Studio](https://lmstudio.ai) (free tier, closed-source UI), [LocalAI](https://localai.io), [Logseq](https://logseq.com), [n8n](https://n8n.io) (fair-code), [Ollama](https://ollama.com), [OpenHands](https://github.com/All-Hands-AI/OpenHands), [OpenWebUI](https://openwebui.com), [text-generation-webui](https://github.com/oobabooga/text-generation-webui), [Ueli](https://ueli.app), [Whisper.cpp](https://github.com/ggerganov/whisper.cpp), [Witsy](https://witsyai.com).
 
 **Commercial closed-source** — most products in this list, including [ChatGPT Desktop](https://openai.com/chatgpt/desktop/), [Claude Desktop](https://claude.ai/download), [Cursor](https://cursor.com), [Highlight AI](https://highlightai.com), [Jarvis](https://getjarvis.eu), [Raycast AI](https://raycast.com/ai), [Superhuman](https://superhuman.com/ai), [Wispr Flow](https://wisprflow.ai), [Windsurf](https://windsurf.com), and others.
 
@@ -345,7 +346,7 @@ Cross-reference of common desktop workflows to representative tools. Many tools 
 
 Cross-reference by operating system. Where the same product is available on multiple platforms, it appears in each list.
 
-**macOS-only** — [Aiko](https://sindresorhus.com/aiko), [Alfred](https://www.alfredapp.com), [AnyBox](https://anybox.app), [Apple Intelligence](https://www.apple.com/apple-intelligence/), [BoltAI](https://boltai.com), [Crade](https://crade.ai), [Dottie](https://dottie.ai), [Friday](https://friday.app), [Frizz](https://frizz.ai), [HelloPushpin](https://www.hellopushpin.com), [MacGPT](https://www.macgpt.com), [MacWhisper](https://goodsnooze.gumroad.com/l/macwhisper), [Sigma AI Browser](https://www.sigmaos.com), [Spotlight](https://support.apple.com/guide/mac-help/search-with-spotlight-mchlp1008/mac), [Superwhisper](https://superwhisper.com).
+**macOS-only** — [Aiko](https://sindresorhus.com/aiko), [Aleph](https://aleph-site-jade.vercel.app), [Alfred](https://www.alfredapp.com), [AnyBox](https://anybox.app), [Apple Intelligence](https://www.apple.com/apple-intelligence/), [BoltAI](https://boltai.com), [Crade](https://crade.ai), [Dottie](https://dottie.ai), [Friday](https://friday.app), [Frizz](https://frizz.ai), [HelloPushpin](https://www.hellopushpin.com), [MacGPT](https://www.macgpt.com), [MacWhisper](https://goodsnooze.gumroad.com/l/macwhisper), [Sigma AI Browser](https://www.sigmaos.com), [Spotlight](https://support.apple.com/guide/mac-help/search-with-spotlight-mchlp1008/mac), [Superwhisper](https://superwhisper.com).
 
 **Windows-only** — Very few — most "Windows-first" tools also ship on macOS. [Microsoft Copilot Vision](https://www.microsoft.com/copilot) is the most prominent Windows-tied AI assistant beyond OS-level Copilot integration.
 
