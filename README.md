@@ -112,6 +112,7 @@ Tools that take voice as their primary input modality, ranging from dictation ov
 **Commercial**
 
 - **[Aiko](https://sindresorhus.com/aiko)** 🍎 — Local Whisper transcription app with one-click file or microphone capture and AI-assisted cleanup.
+- **[DictaFlow](https://dictaflow.io)** 🍎 🪟 — Hold-to-talk dictation with custom vocabulary and typing output for Citrix/RDP.
 - **[Fireflies.ai](https://fireflies.ai)** 🌐 📱 — Meeting transcription and summarization with a desktop helper for live capture across Zoom, Meet, and Teams.
 - **[Granola](https://granola.ai)** 🍎 🪟 — AI meeting notes that listen alongside any video call and produce structured summaries.
 - **[Krisp](https://krisp.ai)** 🍎 🪟 — Noise cancellation plus AI meeting transcription and note generation in a single desktop agent.
