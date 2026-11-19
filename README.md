@@ -202,6 +202,7 @@ Tools where AI is wired into multi-step automations across apps. Many ship cloud
 - **[Make](https://www.make.com)** 🌐 — Visual automation platform with AI modules and OpenAI/Anthropic integrations.
 - **[Relay.app](https://www.relay.app)** 🌐 — Automation platform with AI steps and explicit human-in-the-loop checkpoints.
 - **[Zapier](https://zapier.com/ai)** 🌐 — Long-running automation hub with AI actions, Copilot builder, and Zapier Agents.
+- [Zortex](https://zortex.me/en/install) - Connects existing agents to supported apps and keeps synced data in an encrypted local store. *macOS, Windows, Linux.*
 
 ## Privacy-first / EU-hosted
 
