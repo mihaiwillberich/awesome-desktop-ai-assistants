@@ -237,6 +237,7 @@ Projects with permissive licenses or self-hostable architectures so the operator
 - **[KoboldAI](https://github.com/KoboldAI/KoboldAI-Client)** 🔓 🍎 🪟 🐧 — Long-running open-source local AI client originally focused on story generation, now with chat modes.
 - **[LibreChat](https://www.librechat.ai)** 🔓 🌐 — Self-hostable, multi-provider clone of ChatGPT with plugins, presets, and multi-user auth.
 - **[OpenWebUI](https://openwebui.com)** 🔓 🌐 — Polished web UI for Ollama and OpenAI-compatible backends, runnable in Docker on any desktop.
+- [OSTUM Desktop](https://ranis2023.github.io/ostum-desktop/en/) - Runs a local model for chat, photo reading and document review. *Windows.*
 - **[text-generation-webui](https://github.com/oobabooga/text-generation-webui)** 🔓 🍎 🪟 🐧 — Gradio-based local LLM web UI ("oobabooga") with deep configuration for power users.
 
 **Local model runtimes**
